@@ -1,17 +1,4 @@
-Skip to content
- 
-Search…
-All gists
-Back to GitHub
-@hamed4263 
-@jacksonday
-jacksonday/script.js
-Created 4 years ago • Report abuse
-0
-0
-Code
-Revisions
-1
+
 <script src="https://gist.github.com/jacksonday/420338ef6889ed89cef294adf64915de.js"></script>
 chus china bistro script
 script.js
