@@ -1,4 +1,3 @@
-
 <script src="https://gist.github.com/jacksonday/420338ef6889ed89cef294adf64915de.js"></script>
 chus china bistro script
 script.js
